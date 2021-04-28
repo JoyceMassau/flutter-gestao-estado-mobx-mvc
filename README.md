@@ -30,7 +30,7 @@ Interfaces são benéficas em questão de injeção de dependência, pois não �
 #### repositories
 
 Aqui será armazenado código referente a dados. Quando vamos persistir informações no DAO ou consumir uma API, será feito aqui.
-Também serão implementados métodos com o mesmo nome de métodos definidos lá na interface[interface](https://github.com/JoyceMassau/flutter-gestao-estado-mobx-mvc#interface) e, como as classes criadas nos arquivos dentro deste diretório implementam a interface, eles também substituem o método herdado da interface
+Também serão implementados métodos com o mesmo nome de métodos definidos lá na [interface](https://github.com/JoyceMassau/flutter-gestao-estado-mobx-mvc#interface) e, como as classes criadas nos arquivos dentro deste diretório implementam a interface, eles também substituem o método herdado da interface.
 
 #### shared
 
